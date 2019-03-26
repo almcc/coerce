@@ -4,5 +4,5 @@ setup(
     name="coerce",
     version="0.0.0",
     packages=["coerce"],
-    extras_require={"dev": ["pytest", "black"]},
+    extras_require={"dev": ["pytest", "pytest-cov", "pytest-black", "black==18.9b0"]},
 )
