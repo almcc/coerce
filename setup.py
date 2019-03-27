@@ -12,6 +12,7 @@ setup(
             "black==18.9b0",
             "coveralls",
             "twine",
+            "invoke",
         ]
     },
 )
