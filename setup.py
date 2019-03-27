@@ -23,7 +23,6 @@ setuptools.setup(
     extras_require={
         "dev": [
             "black==18.9b0",
-            "coveralls",
             "invoke",
             "pytest",
             "pytest-black",
