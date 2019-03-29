@@ -9,4 +9,4 @@ script:
   - pytest --cov=coerce --black
 after_success:
   - pip install coveralls
-  — coveralls
+  - coveralls
