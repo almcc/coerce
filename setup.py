@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="coerce",
-    version="0.0.3a1",
+    version="0.0.3",
     author="Alastair McClelland",
     author_email="almcc.dev@gmail.com",
     description="A type hint coercion decorator.",
